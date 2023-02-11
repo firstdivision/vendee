@@ -6,3 +6,7 @@ https://openweathermap.org/price
 
 ## NOAA
 https://www.ncei.noaa.gov/products/weather-climate-models/global-forecast
+
+### GRIB?
+https://noaa-gfs-bdp-pds.s3.amazonaws.com/index.html#gfs.20230210/18/atmos/ 
+
