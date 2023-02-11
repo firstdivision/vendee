@@ -16,3 +16,10 @@ jobs:
       uses: wei/wget@v1
       with:
         args: -O sample.html https://httpbin.org/html
+        
+        
+# job2
+# parse GRIB file into simple JSON format
+
+# job 3
+# save JSON file to local repo
