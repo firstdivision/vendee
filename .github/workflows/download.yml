@@ -5,6 +5,9 @@ on:
   workflow_dispatch:
     
     
+# Instead download current date of NOAA AWS file like:
+# https://noaa-gfs-bdp-pds.s3.amazonaws.com/index.html#gfs.20230210/18/atmos/
+# https://noaa-gfs-bdp-pds.s3.amazonaws.com/index.html#gfs.YYYYMMDD/HH/atmos/
 jobs:
   wget:
     runs-on: ubuntu-latest
